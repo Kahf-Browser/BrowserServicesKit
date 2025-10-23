@@ -12,10 +12,9 @@
     {
       "identity" : "content-scope-scripts",
       "kind" : "remoteSourceControl",
-      "location" : "https://github.com/duckduckgo/content-scope-scripts",
+      "location" : "https://github.com/Kahf-Browser/content-scope-scripts",
       "state" : {
-        "revision" : "1ed569676555d493c9c5575eaed22aa02569aac9",
-        "version" : "6.19.0"
+        "revision" : "73949b1314cf80a54b69561b386b6d29769a6776"
       }
     },
     {
@@ -84,7 +83,7 @@
     {
       "identity" : "trackerradarkit",
       "kind" : "remoteSourceControl",
-      "location" : "https://github.com/duckduckgo/TrackerRadarKit",
+      "location" : "https://github.com/duckduckgo/TrackerRadarKit.git",
       "state" : {
         "revision" : "5de0a610a7927b638a5fd463a53032c9934a2c3b",
         "version" : "3.0.0"
